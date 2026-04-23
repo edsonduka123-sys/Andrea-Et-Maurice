@@ -1,0 +1,7 @@
+{
+  "name": "Andrea And Maurice - Questions de couple",
+  "description": "Une application élégante conçue pour relancer la conversation entre partenaires avec des questions générées par l'IA, allant du profond au léger.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
